@@ -1,0 +1,63 @@
+ style="text-transform: none;">Tue, Oct 14, 2014</td>
+              <td>21:50 hrs</td>
+              <td>03:20<br> (+ 1  day) hrs</td>
+              <td><span style="text-transform: none;">TR 2717</span><br><div class="stopOverLinkDiv"><a href="javascript:void(0);" id="activateJourney_0_0_0_0" class="stopOverLink"></a></div>
+                <div class="stopOverInfo hidden" id="journey_0_0_0_0">
+                  <div class="stopOverInfoItem gradientPanel">
+                    <p class="closeButtonFlightDetails" style="margin-left: 0px; "><span style="font-weight:bold; letter-spacing: 1px;">Flight Details</span><a href="javascript:void(0);" id="deactivateJourney_0_0_0_0">
+                x
+              </a></p>
+                    <div class="innerInfo" style="text-transform:none;">
+                      <div style="font-weight:bold;  letter-spacing:1px; font-size:12px; color:#393738; display:inline-block; margin-top:10px; padding:3px; margin-bottom:5px;">Tigerair Singapore</div>
+                      <table>
+                        <tr>
+                          <td><span>flight: </span></td>
+                          <td>TR 
+                      2717</td>
+                        </tr>
+                        <tr>
+                          <td><span>date :
+                      </span></td>
+                          <td>Tue, Oct 14, 2014</td>
+                        </tr>
+                        <tr>
+                          <td><span>depart: </span></td>
+                          <td>Perth -
+                      21:50</td>
+                        </tr>
+                        <tr>
+                          <td><span>arrive: </span></td>
+                          <td>Singapore -
+                      03:20</td>
+                        </tr>
+                        <tr>
+                          <td><span>Travel Time: </span></td>
+                          <td>5 h
+                      30 m
+                    </td>
+                        </tr>
+                      </table>
+                      <div id="propertyContainer_0_0_0_0"></div>
+                    </div>
+                  </div>
+                </div>
+              </td>
+              <td class="fareCol1">
+                <div id="fare_0_0_1" style="margin-left:-10px">
+                  <p style="text-transform: none;"><span class="spanFareLabel" style="color: #595955;">Light Fare</span><br><input id="ControlGroupSelectView_AvailabilityInputSelectView_RadioButtonMkt1Fare3" type="radio" name="ControlGroupSelectView$AvailabilityInputSelectView$market1" value="0~L~LR~9001~~None~X|TR~2717~ ~~PER~10/14/2014 21:50~SIN~10/15/2014 03:20" flightDateTimeValue="10/14/2014|21:50" arrivalDateTimeValue="10/15/2014|03:20" carrierCode="TR" marketIndex="1" requiredError="Please select a fare." dateFare="true"><span style="margin-right:3px;">AUD</span><span>194.29</span></p><label class="hidden">194.29</label></div>
+              </td>
+            </tr>
+            <tr>
+              <td colspan="7" class="right">Prices include taxes and fees</td>
+            </tr>
+          </table>
+          <div class="pageHeader"></div>
+          <div class="spacerSml"> </div>
+          <table id="availabilityTable1" class="availabilityTable">
+            <tr>
+              <td class="tdLinkPreviousNext" colspan="2"><a id="ControlGroupSelectView_AvailabilityInputSelectView_LinkButtonPreviousWeek2" href="javascript:__doPostBack('ControlGroupSelectView$AvailabilityInputSelectView$LinkButtonPreviousWeek2','')">&lt;Previous day</a></td>
+              <td></td>
+              <td colspan="2" class="tdLinkPreviousNext" style="text-align:right;"><a id="ControlGroupSelectView_AvailabilityInputSelectView_LinkButtonNextWeek2" href="javascript:__doPostBack('ControlGroupSelectView$AvailabilityInputSelectView$LinkButtonNextWeek2','')">Next day&gt;</a></td>
+            </tr>
+            <tr>
+              <th colspan="5" class="marketheade

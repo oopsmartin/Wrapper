@@ -1,0 +1,1743 @@
+<!DOCTYPE html><!--[if IE 7]><html lang="en" class="no-js ie7 oldie filters"><![endif]--><!--[if IE 8]><html lang="en" class="no-js ie8 oldie filters"><![endif]--><!--[if IE 9]><html lang="en" class="no-js ie9 filters"><![endif]--><!--[if (gt IE 9)|!(IE)]><html lang="en" class="no-js"><![endif]--><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<head>
+  <META http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
+  <title>Spirit Airlines - cheap tickets, cheap flights, discount airfare, cheap hotels, cheap car rentals, cheap travel</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Spirit Airlines, Spirit, Spirit air, Spiritair.com, Spirit.com, Spirt airline, Sprit airline, sprit, spirt, sprit.com, spirt.com, spritair.com, spirtair.com, Spirit travel, spirit flights, spirit tickets, spirit air fares, spirit website, spirit sale, Cheap flights, cheap airfare, cheap plane tickets, cheap travel, discount  flights, discount airfare, discount plane tickets, discount travel, low cost flights, low cost fares, low cost plane tickets, low cost airlines, low cost carriers, cheap tickets Caribbean, cheap flights Caribbean , cheap airfare Caribbean, cheap travel Caribbean, discount tickets Caribbean, discount flights Caribbean , discount airfare Caribbean, discount travel Caribbean, $9 fare club, spirit top picks">
+  <meta name="description" content="Spirit Airlines is the leading Ultra Low Cost Carrier in the United States, the Caribbean, the Bahamas and Latin America. Serving 39+ destinations, we liberate you from paying high fares with completely customizable flights so you to pay only for what you need.  Join our $9 Fare Club and get exclusive access to low, member-only fares at spirit.com."><!--[if lte IE 6]>
+						<script type="text/javascript">
+							window.location = "http://marketing.spirit.com/ie6.html";
+						</script>
+					<![endif]--><link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link rel="shortcut icon" href="Content/Images/favicon.ico" type="image/vnd.microsoft.icon">
+  <link rel="stylesheet" href="style/libraries/normalize.css">
+  <link rel="stylesheet" type="text/css" href="style/templateDPP.css" media="all">
+  <link rel="stylesheet" type="text/css" href="style/libraries/jquery-ui-1.8.12.dpp-theme.css" media="all"><!-- Extended Styles --><link rel="stylesheet" href="style/libraries/normalize.css">
+  <link rel="stylesheet" href="style/template.css">
+  <link rel="stylesheet" href="style/hotelUpsell.css">
+  <link rel="stylesheet" type="text/css" href="style/features/calendar.css">
+  <link rel="stylesheet" href="style/spiritway.css">
+  <link rel="stylesheet" href="style/spiritway.css">
+  <link rel="stylesheet" href="style/printable.css" media="print"><script src="script/libraries/modernizr.custom.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script><script>!window.jQuery || document.write('<script src="script/libraries/jquery.js">\x3C/script>')</script><script src="script/libraries/jquery-ui-1.8.12.dpp-theme.min.js"></script><script type="text/javascript" src="js/base/Class.create.js"></script><script type="text/javascript" src="js/base/jquery-encoder-0.1.0.js"></script><script src="script/libraries/underscore-min.js?v=1"></script><script type="text/javascript" src="js/Base/jquery.metaobjects.js"></script><script type="text/javascript" src="js/Base/common_original.js"></script><script type="text/javascript" language="javascript">
+				var currentCulture = 'en-US';
+			</script><script type="text/javascript" src="script/global.js?v=1"></script><script type="text/javascript" src="script/validations.js?v=1"></script><script type="text/javascript" src="script/formUtils.js?v=1"></script><script src="script/ajaxlogin.js?v=1"></script><script src="script/libraries/mailcheck.min.js?v=1"></script><script type="text/javascript" src="js/Base/block.js?v=1"></script><script type="text/javascript" src="script/helpballoon.js?v=1"></script><script type="text/javascript" src="script/global_scripts.js?v=1"></script><script type="text/javascript" src="script/DPPmodalWindow.js?v=1"></script><script type="text/javascript" src="script/DPPcalendarMarketSelectAjaxNew.js?v=1"></script><script type="text/javascript" src="script/citypairrulesEN.js?v=1"></script><script type="text/javascript" src="script/morningflight.js?v=1"></script><script type="text/javascript" src="script/customControls.js?v=1"></script><script type="text/javascript" src="script/validations.js?v=1"></script><script type="text/javascript">
+			var url=window.location.toString();
+			var prefix=(url.substring(0,5)).toLowerCase();
+			if (prefix=="https")
+			{
+				document.write('<s'+'cript language="JavaScript" src="https://switch.atdmt.com/jaction/BookingCurve2"></s'+'cript>')
+			}
+			else
+			{
+				document.write('<s'+'cript language="JavaScript" src="http://switch.atdmt.com/jaction/BookingCurve2"></s'+'cript>')
+			}
+			</script><meta name="WT.cg_n" content="Booking">
+  <meta name="WT.cg_s" content="Calendar">
+  <meta name="WT.si_n" content="Air Booking Path">
+  <meta name="WT.si_x" content="1">
+  <meta name="DCSext.tr_type" content="One">
+  <meta name="DCSext.num_pass" content="1">
+  <meta name="DCSext.origin" content="BWI">
+  <meta name="DCSext.dest" content="LAX">
+  <meta name="DCSext.depart_date" content="10/15/2014">
+  <meta name="WT.tx_e" content="s">
+  <meta name="WT.dcsvid" content="e2207ded-e20f-429f-8151-e2e0979ce768">
+  <meta name="DCSext.mem_type" content="Guest">
+  <meta name="DCSext.lng_pref" content="en">
+</head>
+<body class="en-US">
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KLL8ZL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript><script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'<='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KLL8ZL');
+      </script><form method="post" action="DPPCalendarMarket.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="SkySales">
+    <div class="aspNetHidden"><input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value=""><input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value=""><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMGRkaNvGY03LigFEaZjOexHc0LuxriA="></div>
+    <div id="page"><script src="https://activity.conversen.com/sts/scripts/conversen-SDK.js" async=""></script><script type="text/javascript">
+      var EnableSiquisOverlaysFS = 'False';
+      var EnableFSMCOverlay = 'False';
+    </script><div class="color_bar first"></div><header class="main_header"><nav class="top_nav"><ul>
+            <li style="width:50px;"><a href="Default.aspx#book-travel" onclick="javascript: ga('send', '/navbar/bookTravel');" style="border-left:none;padding-left:0px;">Home</a></li>
+            <li><a href="Spirit101" onclick="javascript: ga('send', '/navbar/Spirit101');">Spirit 101</a></li>
+            <li><a href="StaticFareClubEnrollment.aspx" onclick="javascript: ga('send', '/navbar/9dfc');">$9 Fare Club</a></li>
+            <li class="dropdown-menu"><a class="freespiritlink" href="FreeSpiritEnrollment.aspx" onclick="javascript: ga('send', '/navbar/freeSpirit');">FREE SPIRIT  ▼
+                      </a><ul class="sub-menu">
+                <li><a href="FreeSpiritEnrollment.aspx" onclick="javascript: ga('send', '/navbar/freeSpirit');">Sign-Up</a></li>
+                <li><a href="FreeSpiritGetMiles.aspx" onclick="javascript: ga('send', '/navbar/freeSpirit/GetMiles');">Get Miles</a></li>
+                <li><a href="https://buy.points.com/PointsPartnerFrames/partners/spirit/container.html?product=buy" onclick="javascript: ga('send', '/navbar/freeSpirit/points');">Buy or Gift Miles</a></li>
+                <li><a href="FreeSpiritUseMiles.aspx" onclick="javascript: ga('send', '/navbar/freeSpirit/UseMiles');">Use Miles</a></li>
+                <li><a href="FreeSpiritDedicatedPartner.aspx" onclick="javascript: ga('send', '/navbar/freeSpirit/DedicatedPartner');">Our Partners</a></li>
+                <li class="submenu-seprator"><a href="javascript:void(0);"> </a></li>
+              </ul>
+            </li>
+            <li><a href="http://marketing.spirit.com/traveldeals/traveldeals.php" onclick="javascript: dcsMultiTrack('DCS.dcsuri',window.location.pathname,'WT.ti',document.title,'DCSext.tr_dl_int','1');ga('send', '/navbar/deals');">Deals</a></li>
+            <li><a href="RouteMaps.aspx" onclick="javascript: ga('send', '/navbar/routeMaps');">Where we Fly</a></li>
+            <li><a href="OptionalServices" onclick="javascript: ga('send', '/navbar/OptionalServices');">Optional Services</a></li>
+            <li><a href="https://spirit.zendesk.com/" style="border-right:none;">Help</a></li>
+          </ul><a href="javascript:cultureRedirect('es-PR')" class="language_tab" onclick="javascript: ga('send', '/navbar/cultureSwitch');">Español</a></nav><h1><a title="Spirit Airlines" href="Default.aspx">Spirit Airlines</a></h1><section class="promo"></section><nav class="support"><ul>
+            <li class="first"><a id="loginlink" href="#">Member<br>Login</a></li>
+          </ul>
+          <div style="display:none">
+            <div id="login">
+              <div class="error_msg_bubble" id="header_error_bubble" style="display: none;"><span class="arrow"></span><p></p>
+              </div>
+              <h1>Log in to your account</h1>
+              <div id="loginFormArea">
+                <fieldset class="section_block">
+                  <ul>
+                    <li class="field"><label for="email">Email</label><input type="text" id="emailField" data-inpopup="true"></li>
+                    <li class="field"><label for="password">Password</label><input type="password" id="passwordField" data-inpopup="true" autocomplete="off"></li>
+                    <li id="forgotPasswordLogin" class="field last_one"><a href="ForgotPassword.aspx">Forgot your password?</a></li>
+                  </ul>
+                </fieldset>
+              </div>
+              <p class="actions"><button class="button primary" type="button">Member Login</button><a href="FreeSpiritEnrollment.aspx">Sign Up</a></p><span id="login_error"></span></div>
+          </div></nav></header><div id="TASessiontimeout" style="display:none;"></div>
+      <div id="TAUserSessionWarning" style="display:none;"></div>
+      <div id="waitMessageModal" style="display:none;" text="One moment please."></div>
+      <div id="enableOverlay" style="display:none;">False</div>
+      <div id="enableSiquisOverlays" style="display:none;">False</div>
+      <div id="MemberGetMemberOverlay" style="display:none;">False</div>
+      <div id="logout" style="display:none;"><LINKBUTTONLOGOUT id="LinkButtonLogOut"><a id="DPPFlightAvailabilityHeaderControl_LinkButtonLogOut" href="javascript:__doPostBack('DPPFlightAvailabilityHeaderControl$LinkButtonLogOut','')">Sign Out</a></LINKBUTTONLOGOUT></div>
+      <div id="content">
+        <div class="errors"></div><script language="javascript">
+      $(function() {
+      var TAUserSessionWarning=540000;
+      var TASessiontimeout=600000;
+      //***************************************************************************************************
+      //'taxes and fees' popup
+
+      //Display 'taxes and fees' popup
+      $("a[rel='display_taxesAndFees']").live('click', function (event) {
+      event.preventDefault();
+      $("#taxesAndFees").dialog({
+      modal: true,
+      dialogClass: 'modalWindow',
+      width: 944
+      });
+      var widget=$("#taxesAndFees").dialog("widget");
+      widget.css("top","177px");
+      $('html, body').animate({ scrollTop: 0 }, 0);
+      });
+
+      //Close 'taxes and fees' popup via (x) on top right corner
+      $("#taxesAndFees").find("button").live('click', function () {
+      $("#taxesAndFees").dialog('close');
+      });
+
+
+      //Close 'taxes and fees' popup via Close link
+      $("a[rel='close_taxesAndFees']").live('click', function () {
+      $("#taxesAndFees").dialog('close');
+      });
+
+      //'----NonRefundable' popup
+
+      //Display 'NonRefundable' popup
+      $("a[rel='display_NonRefundable']").live('click', function (event) {
+      event.preventDefault();
+      $("#NonRefundable").dialog({
+      modal: true,
+      dialogClass: 'modalWindow',
+      width: 368,
+      open: function () {  }
+      });
+      var widget=$("#NonRefundable").dialog("widget");
+      widget.css("top","177px");
+      $('html, body').animate({ scrollTop: 0 }, 0);
+      });
+
+      //Close 'taxes and fees' popup via Close link
+      $("a[rel='close_NonRefundable']").live('click', function () {
+      $("#NonRefundable").dialog('close');
+      });
+
+
+      //***************************************************************************************************
+
+
+      gaPagename = "/DPPCalendarMarket.aspx";
+      strURL = window.location.search;
+      sAccount = window.gaccount;
+      gaPagename = gaPagename + strURL;
+
+      if (gaLocalHostEnabled) {
+      ga('create', sAccount, 'spirit.com', {'cookieDomain':'none'});
+      } else {
+      ga('create', sAccount);
+      }
+      ga('send', 'pageview');
+      
+      
+
+      if (window.promomessage != null)
+      {
+      ga('send', 'event', 'Error', window.promomessage, 'PromoCode', {'page': gaPagename});
+      }
+
+      });
+    </script><div><aside class="breadcrumbs"><ul>
+              <li class="past_step">Search<span class="icon"></span></li>
+              <li class="active_step">Select<span class="icon"></span></li>
+              <li class="">Customers<span class="icon"></span></li>
+              <li class="">Purchase<span class="icon"></span></li>
+              <li class=" last_step">Confirm</li>
+            </ul></aside><header class="dpp_calender_page"><h1>Flight Availability</h1></header><script>
+		  $(document).ready(function () {
+		  $('#closeButton_childWithInSevenDays').click(function () {
+		  $('#childBirthDateWithInSevenDaysError').dialog('close');
+		  });
+		  });
+	  </script><script language="javascript" type="text/javascript">
+      //* GLOBAL JAVASCRIPT VARIABLES
+      var isAwardBookingToo = false;
+      var calendarAjaxSelectPostBackPage = "DPPMarketAjax.aspx";
+      var calendarAjaxPreviousNextPostBackPage = "DPPCalendarMarketAjax.aspx";
+      var postbackControlName = 'DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl';
+      var controlName = 'DPPCalendarMarketSelectControl';
+      var currentCulture = 'en-US';
+      var paxCount = '1';
+      
+      var isLoggedFSMember = 'False';
+      var is9DFCMember = 'False';
+      var isTravelAgent = 'False';
+      var fsMemberFirstName = "";
+      var fsMemberLastName = "";
+      var formattedAnnual9DFCMembership = '$59.95';
+      var selectedDivIDMarket1 = "contentCell_15_10_1";
+      var selectedDivIDMarket2 = "contentCell_";
+      var selectedDivIDMarket3 = "contentCell_";
+      var selectedDivIDMarket4 = "contentCell_";
+      var marketCount = parseInt('1');
+      var missingDepartureFlight = 'Please select your departing flight.';
+      var missingReturnFlight = 'Please select your returning flight.';
+      var checkSameMarket = ' Please make sure that your search does not include multiple flights with the same origin and destination departing on the same day.';
+      var missingSelection = 'Please select your departing and returning flights.';
+      var invalidDates = 'Please make sure that your returning flight is not earlier than your departing flight.';
+      var invalidMutiCityDates = 'Please check flight dates and make sure that each flight takes place later than the previous flight.';
+      var unexpectedError = 'Flights are currently sold out for one of the days selected. Please select a different date on the calendar below for your departure or return.';
+      var departureStationCode = 'BWI';
+      var departureStation = "Baltimore";
+      var arrivalStationCode = 'LAX';
+      var arrivalStation = "Los Angeles";
+      var bagRestrictionLine1 = 'Spirit only allows ';
+      var bagRestrictionLine1End = ' checked bag(s) per customer to/from this destination. Baggage fees apply. Baggage must be within weight/size limits.';
+      var bagRestrictionLine2 = 'To learn more about our Checked Baggage policies, please review our Travel Policies.';
+      var availabilityBagRestrictionMessage = 'Only ONE checked bag is guaranteed per customer. Additional checked bags can be purchased (based on availability) ONLY on spirit.com';
+      var isEarlyMorningFlight1 = false;
+      var isEarlyMorningFlight2 = false;
+      var isEarlyMorningFlight3 = false;
+      var isEarlyMorningFlight4 = false;
+      var earlyMorningMessage = 'You have selected an early AM departure. ';
+      var earlyMorningMessageCaption = 'Early departure';
+      var earlyMorningMessageContinue = 'Continue';
+      var earlyMorningMessageCancel = 'Cancel';
+      var earlyMorningMessageB = ' Please make sure this is when you would like to fly.';
+      var earlyMorningMessageLongA = 'Please be aware that flight # ';
+      var earlyMorningMessageLongB = ' leaves at ';
+      var earlyMorningMessageLongC = ' on the morning of ';
+      var earlyMorningMessageLongD = '.';
+      var earlyMorningMessageLongE = 'Please make sure this is when you would like to fly.';
+      var departingDepartureTime = '';
+      var departureArrivalTime = '';
+      var returnDepartureTime = '';
+      var departureArrivalTime1 = '';
+      var departureArrivalTime2 = '';
+      var departureArrivalTime3 = '';
+      var departureArrivalTime4 = '';
+      var tripType = 'oneWay';
+      var arrivalTimeMarket1 = '';
+      var arrivalTimeMarket2 = '';
+      var arrivalTimeMarket3 = '';
+      var arrivalTimeMarket4 = '';
+      var selectedFlightRow1 = '';
+      var selectedFlightRow2 = '';
+      var selectedFlightRow3 = '';
+      var selectedFlightRow4 = '';
+      var selectedFlight1 = '';
+      var selectedFlight2 = '';
+      var selectedFlight3 = '';
+      var selectedFlight4 = '';
+      var ndfcSavings1 = '';
+      var ndfcSavings2 = '';
+      var ndfcSavings3 = '';
+      var ndfcSavings4 = '';
+      var monthNames = new Array(12);
+      var childBirthDates = [];
+      var infants = 0;
+      var children = 0;
+      var lapChildCount = 0;
+      var childDepartureDate = $.datepicker.parseDate('yy-mm-dd','2014-10-15T00:00:00');
+      var childReturnDate = $.datepicker.parseDate('yy-mm-dd','0001-01-01T00:00:00');
+      monthNames[0] = 'January';
+      monthNames[1] = 'February';
+      monthNames[2] = 'March';
+      monthNames[3] = 'April';
+      monthNames[4] = 'May';
+      monthNames[5] = 'June';
+      monthNames[6] = 'July';
+      monthNames[7] = 'August';
+      monthNames[8] = 'September';
+      monthNames[9] = 'October';
+      monthNames[10] = 'November';
+      monthNames[11] = 'December';
+      var dayNames = new Array(7);
+      dayNames[0] = 'Sunday';
+      dayNames[1] = 'Monday';
+      dayNames[2] = 'Tuesday';
+      dayNames[3] = 'Wednesday';
+      dayNames[4] = 'Thursday';
+      dayNames[5] = 'Friday';
+      dayNames[6] = 'Saturday';
+      var forFreeText = " Free";
+      var errorCount = '0';
+      var itineraryHeader_Time = 'Time';
+      var itineraryHeader_Flight = 'Flight';
+      var itineraryHeader_Miles = 'Miles';
+      var itineraryHeader_From = 'From';
+      var itineraryHeader_To = 'To';
+      var itineraryHeader_arrival = 'Arrival';
+      var itineraryHeader_departure = 'Departure';
+      var itineraryHeader_nextDay = 'next day';
+      var isFreeSpiritMCHolder = '';
+      var loggedMemberAcountMileage = '';
+      var packagePrice = '0';
+      var isMultiCity = 'False';
+      var isEnablePointsCom = "TRUE";
+      var isAgent = 'false';
+      if (isAgent=='true') {
+      $(document).ready(function(){
+
+      $(document).ready(function(){
+
+      $('#statementDebitAvailBlock').hide();
+      });
+      });
+      }
+      $.extend(PageModel, {
+      fareMore: '<br>more',
+		fareLess: '<br>less',
+		fareEqual: 'same<br>price'
+      });
+      //* END OF GLOBAL JAVASCRIPT VARIABLES
+
+      $(document).ready(function(){
+      $("a#expandLogin").click(function(event){
+      event.preventDefault();
+      $("div#loginSection").show();
+      });
+      var errorDiv = $('#errorDiv');
+      if ($.trim(errorDiv.html())!=""){
+      $('#errorDiv').show();
+      }
+      if(currentCulture == 'es-PR'){
+      $(".award_toggle_control").css("width","187px");
+      }
+      if ( $.browser.msie ) {
+      $(".award_toggle_control").find("ul").css("padding-top","8px");
+      }
+
+      if(isMultiCity == 'True'){
+      $(".dpp_calender_market tr.days").removeClass("days").addClass("daysMulticity");
+      $("#content .dpp_calender_page_details .dpp_calender_market table#availabilityCalendar caption.table_thead_caption").css("padding-bottom", "0");
+      if (currentCulture == 'es-PR') {
+      $(".dpp_calender_market caption strong").css("padding-left", "175px");
+      $(".dpp_calender_market caption strong").css("padding-right", "175px");
+      }
+      else {
+      $(".dpp_calender_market caption strong").css("padding-left", "190px");
+      $(".dpp_calender_market caption strong").css("padding-right", "190px");
+      }
+      $(".dpp_calender_market caption strong").css("text-transform","uppercase");
+      $(".dpp_calender_market caption strong").css("font-size","16px");
+      $(".dpp_calender_market caption").css("text-transform","none");
+      $(".ie7 .dpp_calender_market .calendar_header table").css("filter","progid:DXImageTransform.Microsoft.gradient( startColorstr='#5E646C', endColorstr='#3C3E44',GradientType=0 )");
+      $(".ie7 #content .dpp_calender_page_details .dpp_calender_market table#availabilityCalendar caption.table_thead_caption").css("background-color","#032C52");
+      }
+
+      });
+
+      
+      function SelectFlightHotelPackage()
+      {
+
+      if(IsPlusPriceEnabled==true)
+      {
+      $("#hotelAvailability").val('true');
+      onBookButtonClicked();
+      }
+      else
+      {
+      __doPostBack('DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$FlightHotelPath','');
+      }
+
+      
+      }
+
+    </script><input type="hidden" id="cheapestHotelPrice" name="cheapestHotelPrice" value="0"><input type="hidden" id="cacheHotelDisplayedTotal" name="cacheHotelDisplayedTotal" value="0"><input type="hidden" id="toggleMilesUSD" name="toggleMilesUSD"><input type="hidden" id="hotelAvailability" name="hotelAvailability" value="false"><script type="text/javascript">  
+      function SetValue(obj){
+      $("#toggleMilesUSD").val(obj.value);   
+      var checktoggleValue= $("#toggleMilesUSD").val();
+              
+          if(checktoggleValue == "miles")          
+          {
+          showLoginPopup();           
+          }
+        
+  
+      }
+      jQuery(document).ready(function(){
+      $(".displayPriceToggle").each(function(){
+      
+          if($(this).val() == "price"){
+          $(this).attr("checked","checked");
+          }
+              
+      })
+      });
+    </script><div id="AjaxMarketIndex"></div>
+          <div class="ad"></div><article class="warningMsgWraper"><div id="errorDiv" class="warning_msg" style="display:none; margin:20px 0px;"></div></article><article class="dpp_content">
+      Our fares are fully unbundled. A ticket with us gets you and a personal item from A to B. We call this the Bare Fare. Additional charges for <a class="regLink" href="OptionalFees.aspx" target="_blank" shape="rect">baggage</a>, 
+      <a class="regLink" href="OptionalFees#optional-seats" target="_blank" shape="rect">advance seat assignments</a> and <a class="regLink" href="OptionalFees.aspx" target="_blank" shape="rect">any changes</a> apply only if you add these options. 
+      Fares listed are per person, are <a href="#" rel="display_NonRefundable" shape="rect">non-refundable</a> and include all <a href="#" rel="display_taxesAndFees" shape="rect">taxes and fees</a>.
+    <div class="dpp_content_banner"><a href="" onclick="$('html, body').animate({ scrollTop: $('#DepartureRoundTrip').offset().top }, 200); return false;" shape="rect"><img src="images/spiritway/Bare_Fare_banner.png" alt="Bare Fare Banner"></a></div></article><div id="marketSet1" class="market_set">
+            <fieldset class="dpp_calender_page_details">
+              <div class="dpp_flight_details">
+                <div class="dpp_flight_details_content"><input type="hidden" id="DPPCalendarMarketSelectControl_HiddenFieldDay1" name="DPPCalendarMarketSelectControl$HiddenFieldDay1" value="15"><input type="hidden" id="DPPCalendarMarketSelectControl_HiddenFieldMonth1" name="DPPCalendarMarketSelectControl$HiddenFieldMonth1" value="10"><input type="hidden" id="DPPCalendarMarketSelectControl_HiddenFieldYear1" name="DPPCalendarMarketSelectControl$HiddenFieldYear1" value="2014"><HIDDENFIELDMARKET0 id="HiddenFieldMarket0"><input type="hidden" name="DPPCalendarMarketSelectControl$HiddenFieldMarket0" id="DPPCalendarMarketSelectControl_HiddenFieldMarket0" value="10/1/2014"></HIDDENFIELDMARKET0><a id="market1"></a><div id="DepartureOtherMarket">
+                    <h1 class="departure">
+            Select date and time of your flight
+        </h1>
+                  </div>
+                </div>
+                <div class="dpp_calender_ad">
+                  <div class="outbound_ad">
+                    <div class="ndfc_ad_frame">
+                      <h1><img src="images/spiritway/ndfc_logo_ads.png" hspace="0" vspace="0"></h1>
+                      <ul class="program_bullets ndfc">
+                        <li><span></span>Ultra-low fares</li>
+                        <li><span></span>Bag fee discounts</li>
+                        <li><span></span>Exclusive sales</li>
+                        <li><span></span>Special offers</li>
+                      </ul>
+                      <div class="learn_more">
+                        <p class="cta"><a href="StaticFareClubEnrollment.aspx" shape="rect">Learn more</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div id="calendarMarket1" class="dpp_calender_market">
+                  <div id="#change_depart_popup"></div>
+                  <div class="award_toggle_control"><span>Show Prices</span><div>
+                      <ul>
+                        <li><input type="radio" name="radio_fare_btn1" class="displayPriceToggle" value="miles" onClick="javascript:SetValue(this);">Miles</li>
+                        <li><input type="radio" name="radio_fare_btn1" class="displayPriceToggle" value="price" onClick="javascript:SetValue(this);">USD</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <table cellpadding="0" id="availabilityCalendar">
+                    <thead>
+                      <tr>
+                        <td colspan="7" class="calendar_header">
+                          <div>
+                            <table>
+                              <caption class="table_thead_caption"><img id="ImgCalendarPreviousMonthWait1" style="display:none" alt="next month" src="images/calendar-busy.gif"><a id="linkButtonPreviousMonth1" href="javascript: void(0)" onclick="javascript:CalendarAvailabilityInput_PreviousNextCallback(1,'prev');" class="pre-month"><img id="ImgButtonPreviousMonth1" width="13" height="13" alt="previous month" src="images/spiritway/roundArrowLeft.png">Previous Month</a><strong>OCTOBER 2014</strong><img id="ImgCalendarNextMonthWait1" style="display:none" alt="next month" src="images/calendar-busy.gif"><a id="linkButtonNextMonth1" href="javascript: void(0)" onclick="javascript:CalendarAvailabilityInput_PreviousNextCallback(1,'next');" class="next-month">Next Month<img id="ImgButtonNextMonth1" width="13" height="13" alt="next month" src="images/spiritway/roundArrowRight.png"></a></caption>
+                              <tr class="days">
+                                <th class="sun" width="15%">Sun</th>
+                                <th width="14%">Mon</th>
+                                <th width="14%">Tue</th>
+                                <th width="14%">Wed</th>
+                                <th width="14%">Thu</th>
+                                <th width="14%">Fri</th>
+                                <th class="sat" width="15%">Sat</th>
+                              </tr>
+                            </table>
+                          </div>
+                        </td>
+                      </tr>
+                    </thead>
+                    <tbody class="calendar_days">
+                      <tr>
+                        <td class="na"><span>28</span></td>
+                        <td class="na"><span>29</span></td>
+                        <td class="na"><span>30</span></td>
+                        <td id="contentCell_1_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '1', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>1</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_2_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '2', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>2</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_3_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '3', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>3</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_4_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '4', '2014', '150.59', '1','0');"><span class="changeFlightDate"><sup>4</sup><span class="fare_price" data-fareprice="150.59">$150.59</span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                      </tr>
+                      <tr>
+                        <td id="contentCell_5_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '5', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>5</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_6_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '6', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>6</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_7_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '7', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>7</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_8_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '8', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>8</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_9_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '9', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>9</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_10_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '10', '2014', '260.59', '1','0');"><span class="changeFlightDate"><sup>10</sup><span class="fare_price" data-fareprice="260.59">$260.59</span></span></a></td>
+                        <td id="contentCell_11_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '11', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>11</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                      </tr>
+                      <tr>
+                        <td id="contentCell_12_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '12', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>12</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_13_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '13', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>13</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_14_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '14', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>14</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_15_10_1" class="cheapest selected"><a href="javascript:selectionChanged('1', '10', '15', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>15</sup><span class="selected_fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_16_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '16', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>16</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_17_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '17', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>17</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_18_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '18', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>18</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                      </tr>
+                      <tr>
+                        <td id="contentCell_19_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '19', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>19</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_20_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '20', '2014', '228.59', '1','0');"><span class="changeFlightDate"><sup>20</sup><span class="fare_price" data-fareprice="228.59">$228.59</span></span></a></td>
+                        <td id="contentCell_21_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '21', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>21</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_22_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '22', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>22</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_23_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '23', '2014', '150.59', '1','0');"><span class="changeFlightDate"><sup>23</sup><span class="fare_price" data-fareprice="150.59">$150.59</span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_24_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '24', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>24</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_25_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '25', '2014', '260.59', '1','0');"><span class="changeFlightDate"><sup>25</sup><span class="fare_price" data-fareprice="260.59">$260.59</span></span></a></td>
+                      </tr>
+                      <tr>
+                        <td id="contentCell_26_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '26', '2014', '220.59', '1','0');"><span class="changeFlightDate"><sup>26</sup><span class="fare_price" data-fareprice="220.59">$220.59</span></span></a></td>
+                        <td id="contentCell_27_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '27', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>27</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_28_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '28', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>28</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_29_10_1" class="cheapest"><a href="javascript:selectionChanged('1', '10', '29', '2014', '140.59', '1','0');"><span class="changeFlightDate"><sup>29</sup><span class="fare_price_span"><span class="fare_price" data-fareprice="140.59">$140.59</span></span></span><div class="markerWrap"><span class="redMarker"></span></div></a></td>
+                        <td id="contentCell_30_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '30', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>30</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td id="contentCell_31_10_1" class="regular"><a href="javascript:selectionChanged('1', '10', '31', '2014', '190.59', '1','0');"><span class="changeFlightDate"><sup>31</sup><span class="fare_price" data-fareprice="190.59">$190.59</span></span></a></td>
+                        <td class="pre_next_monthdate na"><span style="min-height: 40px;">1</span></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="calendar_legend">
+                  <ul>
+                    <li class="nine_fare_club"><span><span class="redMarker"></span></span>$9 Fare Club</li>
+                    <li class="fare_legend">
+								 
+							</li>
+                    <li class="not_available"><span class="na"></span>Not available</li>
+                  </ul>
+                </div>
+              </div>
+            </fieldset>
+            <div id="marketSelect1"><script type="text/javascript" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      culture= "en-US";
+      
+      SyncMarkets = "False";
+      
+      IsCAFApplicable = "False";
+      IsCAFApplicableJourney1 = "";
+      IsCAFApplicableJourney2 = "";
+      IsCAFApplicableJourney3 = "";
+      IsCAFApplicableJourney4 = "";
+      
+        OutboundFare = "99.0000";
+      
+      cafRules = [
+      {minFare: ".01",maxFare: "354.99",cafTax: "15"}
+        ,{minFare: "355",maxFare: "590.99",cafTax: "28"}
+        ,{minFare: "591",maxFare: "944.99",cafTax: "46"}
+        ,{minFare: "945",maxFare: "999999",cafTax: "95"}
+        
+      ];
+
+      isHotelCache = false;
+      IsPlusPriceEnabled = true;
+      
+          JsonJourneyCheapestFare = [];
+        
+
+      packagePrice = '0';
+      $("#cheapestHotelPrice").val('0');
+      
+              window.packagePrice = "NaN";
+              $("#packagedPrice").text('$'+ window.packagePrice);
+
+
+              if(isNaN(window.packagePrice)){
+              $("#outboundAddContent").css('display', 'block');
+              $("#hotelUpsellContent").css('display', 'none');
+              }
+              else{
+              $("#outboundAddContent").css('display', 'none');
+              $("#hotelUpsellContent").css('display', 'block');
+              }
+            </script><fieldset class="price-chart" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+                <div class="route_header">
+                  <table cellpadding="0" cellspacing="0" border="0" marketBagsCount="0" style="table-layout: fixed; width: 100%;">
+                    <tr>
+                      <td>
+                        <h2>Baltimore - Los Angeles</h2>
+                      </td>
+                      <td style="float:right;"><span class="date">Wednesday, October 15</span></td>
+                    </tr>
+                  </table>
+                </div>
+                <table cellpadding="0" cellspacing="0" border="1" summary="Price chart" class="flightOptionsSort abh">
+                  <thead>
+                    <tr>
+                      <th rel="time" class="depart" width="12%"><a class="sortTrigger" name="Depart">Depart<span class="arrow down"></span></a></th>
+                      <th rel="time" class="arrive" width="13%"><a class="sortTrigger" name="Arrive">Arrive</a></th>
+                      <th rel="alpha" class="stops" width="15%"><a class="sortTrigger" name="Stops">Stops</a></th>
+                      <th class="type typeth" width="auto">Type</th>
+                      <th width="14%" colspan="2" class="price_col"><strong><span class="label_price">Our Price</span></strong><span class="sub_col">
+                        ( Base Fare <a id="fareQuestion" class="fare_question" href="#"><img src="images/spiritway/questionmark_icon.png"></a><div class="popUpFareWrapper fare_fees_list" style="display:none;">
+                            <div class="popUpContent "></div>
+                            <div class="popUpWrapperTail"></div>
+                            <div class="closeBtn" onclick="$(this).parent().hide();"></div>
+                          </div> + Fuel <a id="fuelQuestion" href="http://marketing.spirit.com/howmuchismyfuel.html" target="_blank"><img src="images/spiritway/questionmark_icon.png"></a> )
+                      </span></th>
+                      <th width="4%" class="math_col"></th>
+                      <th width="6%" class="tax_col">Government's<br>Cut <a id="taxQuestion" class="tax_question" href="#"><img src="images/spiritway/questionmark_icon.png"></a><div class="popUpWrapper taxes_fees_list" style="display:none;">
+                          <div class="popUpContent"></div>
+                          <div class="popUpWrapperTail"></div>
+                          <div class="closeBtn" onclick="$(this).parent().hide();"></div>
+                        </div>
+                      </th>
+                      <th width="3%" class="math_col"></th>
+                      <th rel="number" class="fare totalpriceth" width="13%">
+                        <div class="popUpAwardWrapper taxes_fees_list" style="color:#000; display:none;">
+                          <div class="popUpContent "></div>
+                          <div class="popUpWrapperTail"></div>
+                        </div><span class="flight_total_fare"><a class="sortTriggerFare" name="Fare">Total Price</a></span></th>
+                      <th rel="number" class="fare" style="display:none;"></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr style="display:none" class="processMarket1">
+                      <td colspan="11" width="100%"><img id="processing" alt="One moment please. Your flight schedule is loading" src="images/spiritway/processing_bar_us.gif" complete="complete"></td>
+                    </tr>
+                    <tr class="departureInfo1" style="display:none;">
+                      <td colspan="11">Baltimore (BWI)</td>
+                    </tr>
+                    <tr class="arrivalInfo1" style="display:none;">
+                      <td colspan="11">Los Angeles (LAX)</td>
+                    </tr>
+                  </tbody>
+                  <tbody class="sortThisTable">
+                    <tr class="rowsMarket1" id="market1_trip_1">
+                      <td class="depart">12:51 <sup>PM</sup><br></td>
+                      <td class="arrive">5:12 <sup>PM</sup><span></span></td>
+                      <td class="stops"><a class="stopsLink" href="#">1 Stop</a><div class="popUpWrapper flightNumberWrapper" id="fightDetailWrapper_market1_trip_1" style="display:none;">
+                          <div class="popUpContent">
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">1</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 667</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A320</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Baltimore, MD / Washington, DC AREA</td>
+                                      <td width="22%">12:51 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Dallas/Ft. Worth, TX </td>
+                                      <td width="22%">3:08 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">3 hours, 17 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <div class="layoverTime"><span></span>0 h 47 m layover</div>
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">2</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 869</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A320</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Dallas/Ft. Worth, TX </td>
+                                      <td width="22%">3:55 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Los Angeles, CA</td>
+                                      <td width="22%">5:12 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">3 hours, 17 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                          <div class="popUpWrapperTail"></div>
+                          <div class="closeBtn" onclick="javascript:$('#fightDetailWrapper_market1_trip_1').css('display', 'none');"></div>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="memberItem memberLegend"><span><sup>$</sup>9 Fare Club</span></div>
+                        <div class="standardLegend">Standard</div>
+                      </td>
+                      <td class="price_data">
+                        <div class="memberItem memberPrice"><span data-price="110.94">$110.94</span></div>
+                        <div class="member_fare_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$92.09</em>Flight</li>
+                            <li><em>$1.86</em>Unintended Consequences of DOT Regulations</li>
+                            <li><em>$16.99</em>Passenger Usage Fee</li>
+                            <li><strong><em>$110.94</em>Base Fare Total</strong></li>
+                          </ul>
+                        </div>
+                        <div class="standardPrice"><span data-price="62.66">$62.66</span></div>
+                        <div class="fare_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$43.81</em>Flight</li>
+                            <li><em>$1.86</em>Unintended Consequences of DOT Regulations</li>
+                            <li><em>$16.99</em>Passenger Usage Fee</li>
+                            <li><strong><em>$62.66</em>Base Fare Total</strong></li>
+                          </ul>
+                        </div>
+                      </td>
+                      <td class="fuel_data">
+                        <div class="memberItem memberFuel"><span data-price="0.00">FREE</span></div>
+                        <div class="standardFuel"><span data-price="94.79">$94.79</span></div><br></td>
+                      <td>
+                        <div class="memberItem"><span> </span></div>
+                        <div class="standardItem">
+                                   
+                                </div>
+                      </td>
+                      <td class="tax_data">
+                        <div class="memberItem memberTaxes"><span data-price="29.65">$29.65</span></div>
+                        <div class="member_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$7.05</em>Federal Excise Tax</li>
+                            <li><em>$5.60</em>Security Fee</li>
+                            <li><em>$9.00</em>Passenger Facility Fee</li>
+                            <li><em>$8.00</em>Segment Fee</li>
+                            <li><strong><em>$29.65</em>Total (Government's Cut)</strong></li>
+                          </ul>
+                        </div>
+                        <div class="standardTaxes"><span data-price="33.14">$33.14</span></div>
+                        <div class="standard_member_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$10.54</em>Federal Excise Tax</li>
+                            <li><em>$5.60</em>Security Fee</li>
+                            <li><em>$9.00</em>Passenger Facility Fee</li>
+                            <li><em>$8.00</em>Segment Fee</li>
+                            <li><strong><em>$33.14</em>Total (Government's Cut)</strong></li>
+                          </ul>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="memberItem"><span> </span></div>
+                        <div class="standardItem">
+                                 
+                              </div>
+                      </td>
+                      <td>
+                        <div class="memberItem memberFare"><span><label><input id="FCRadio1_1" type="radio" data-marketindex="1" class="memberFare FAREAUTOSELECT" name="Market1" onclick="javascript:processSelection(&quot;1&quot;,&quot;441&quot;, this.value, &quot;12:51 PM|3:55 PM&quot;, &quot;3:08 PM|5:12 PM&quot;, &quot;market1_trip_1&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 869&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX &quot;, &quot;BWI|DFW&quot;, &quot;Dallas/Ft. Worth, TX |Los Angeles, CA&quot;, &quot;&quot;,&quot;0||0&quot;,&quot;&quot;); javascript:processSelectionHiddenFare(&quot;1&quot;, &quot;0~R~~R7Z8NR~0001~~1~X|NK~ 667~ ~~BWI~10/15/2014 12:51~DFW~10/15/2014 15:08~^NK~ 869~ ~~DFW~10/15/2014 15:55~LAX~10/15/2014 17:12~&quot;, &quot;12:51 PM|3:55 PM&quot;, &quot;3:08 PM|5:12 PM&quot;, &quot;market1_trip_1&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 869&quot;, &quot;$50.00&quot;, &quot;True&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX &quot;, &quot;BWI|DFW&quot;, &quot;Dallas/Ft. Worth, TX |Los Angeles, CA&quot;, &quot;DFW|LAX&quot;,&quot;0||0&quot;,&quot;&quot;);" value="0~O~~O7Z8O1~9FCL~~1~X|NK~ 667~ ~~BWI~10/15/2014 12:51~DFW~10/15/2014 15:08~^NK~ 869~ ~~DFW~10/15/2014 15:55~LAX~10/15/2014 17:12~"><em class="emPrice">$140.59</em></label></span></div>
+                        <div class="standardFare"><label><input id="DLXRadio1_1" type="radio" class="standardFareInput " name="Market1" onclick="javascript:processSelection(&quot;1&quot;,&quot;441&quot;,  this.value, &quot;12:51 PM|3:55 PM&quot;, &quot;3:08 PM|5:12 PM&quot;, &quot;market1_trip_1&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 869&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX &quot;, &quot;BWI|DFW&quot;, &quot;Dallas/Ft. Worth, TX |Los Angeles, CA&quot;, &quot;DFW|LAX&quot;,&quot;0||0&quot;,&quot;&quot;); javascript:processSelectionHiddenFare(&quot;1&quot;, &quot;0~O~~O7Z8O1~9FCL~~1~X|NK~ 667~ ~~BWI~10/15/2014 12:51~DFW~10/15/2014 15:08~^NK~ 869~ ~~DFW~10/15/2014 15:55~LAX~10/15/2014 17:12~&quot;, &quot;12:51 PM|3:55 PM&quot;, &quot;3:08 PM|5:12 PM&quot;, &quot;market1_trip_1&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 869&quot;, &quot;$50.00&quot;, &quot;True&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX &quot;, &quot;BWI|DFW&quot;, &quot;Dallas/Ft. Worth, TX |Los Angeles, CA&quot;, &quot;DFW|LAX&quot;,&quot;0||0&quot;,&quot;&quot;);" value="0~R~~R7Z8NR~0001~~1~X|NK~ 667~ ~~BWI~10/15/2014 12:51~DFW~10/15/2014 15:08~^NK~ 869~ ~~DFW~10/15/2014 15:55~LAX~10/15/2014 17:12~"><em class="emPrice">$190.59</em></label></div>
+                      </td>
+                      <td class="fare" style="display:none;"><span class="valueToSortBy">140.59</span></td>
+                    </tr>
+                    <tr class="rowsMarket1" id="market1_trip_2">
+                      <td class="depart">12:51 <sup>PM</sup><br></td>
+                      <td class="arrive">9:27 <sup>PM</sup><span></span></td>
+                      <td class="stops"><a class="stopsLink" href="#">3 Stops</a><div class="popUpWrapper flightNumberWrapper" id="fightDetailWrapper_market1_trip_2" style="display:none;">
+                          <div class="popUpContent">
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">1</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 667</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A320</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Baltimore, MD / Washington, DC AREA</td>
+                                      <td width="22%">12:51 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Dallas/Ft. Worth, TX </td>
+                                      <td width="22%">3:08 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">3 hours, 17 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <div class="layoverTime"><span></span>1 h 47 m layover</div>
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">2</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 719</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A319</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Dallas/Ft. Worth, TX </td>
+                                      <td width="22%">4:55 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Denver, CO</td>
+                                      <td width="22%">5:58 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">2 hours, 3 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <div class="layoverTime"><span></span>0 h 42 m layover</div>
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">3</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 719</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A319</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Denver, CO</td>
+                                      <td width="22%">6:40 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Las Vegas, NV</td>
+                                      <td width="22%">7:31 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">1 hours, 51 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                            <div class="layoverTime"><span></span>0 h 44 m layover</div>
+                            <table width="100%" class="flightDetail">
+                              <tr>
+                                <td width="25%" class="leftSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="60%">
+                                        <div class="count">4</div>
+                                      </td>
+                                      <td>
+                                        <div class="icon_plane"></div>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Flight: </b></td>
+                                      <td> 719</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="60%"><b>Aircraft</b></td>
+                                      <td> A319</td>
+                                    </tr>
+                                  </table>
+                                </td>
+                                <td class="rightSide">
+                                  <table width="100%">
+                                    <tr>
+                                      <td width="20%"><b>Departure: </b></td>
+                                      <td>Las Vegas, NV</td>
+                                      <td width="22%">8:15 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Arrival: </b></td>
+                                      <td>Los Angeles, CA</td>
+                                      <td width="22%">9:27 PM</td>
+                                    </tr>
+                                    <tr>
+                                      <td width="20%"><b>Time: </b></td>
+                                      <td colspan="2">1 hours, 12 minutes </td>
+                                    </tr>
+                                  </table>
+                                </td>
+                              </tr>
+                            </table>
+                          </div>
+                          <div class="popUpWrapperTail"></div>
+                          <div class="closeBtn" onclick="javascript:$('#fightDetailWrapper_market1_trip_2').css('display', 'none');"></div>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="standardLegend">Standard</div>
+                      </td>
+                      <td class="price_data">
+                        <div class="standardPrice"><span data-price="62.66">$62.66</span></div>
+                        <div class="fare_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$43.81</em>Flight</li>
+                            <li><em>$1.86</em>Unintended Consequences of DOT Regulations</li>
+                            <li><em>$16.99</em>Passenger Usage Fee</li>
+                            <li><strong><em>$62.66</em>Base Fare Total</strong></li>
+                          </ul>
+                        </div>
+                      </td>
+                      <td class="fuel_data">
+                        <div class="standardFuel"><span data-price="94.79">$94.79</span></div><br></td>
+                      <td>
+                        <div class="standardItem">
+                                   
+                                </div>
+                      </td>
+                      <td class="tax_data">
+                        <div class="standardTaxes"><span data-price="41.14">$41.14</span></div>
+                        <div class="standard_member_fees_list" style="display:none;">
+                          <ul>
+                            <li><em>$10.54</em>Federal Excise Tax</li>
+                            <li><em>$5.60</em>Security Fee</li>
+                            <li><em>$9.00</em>Passenger Facility Fee</li>
+                            <li><em>$16.00</em>Segment Fee</li>
+                            <li><strong><em>$41.14</em>Total (Government's Cut)</strong></li>
+                          </ul>
+                        </div>
+                      </td>
+                      <td>
+                        <div class="standardItem">
+                                 
+                              </div>
+                      </td>
+                      <td>
+                        <div class="standardFare"><label><input id="DLXRadio1_2" type="radio" class="standardFareInput " name="Market1" onclick="javascript:processSelection(&quot;1&quot;,&quot;696&quot;,  this.value, &quot;12:51 PM|4:55 PM|6:40 PM|8:15 PM&quot;, &quot;3:08 PM|5:58 PM|7:31 PM|9:27 PM&quot;, &quot;market1_trip_2&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 719| 719| 719&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX |Denver, CO|Las Vegas, NV&quot;, &quot;BWI|DFW|DEN|LAS&quot;, &quot;Dallas/Ft. Worth, TX |Denver, CO|Las Vegas, NV|Los Angeles, CA&quot;, &quot;DFW|DEN|LAS|LAX&quot;,&quot;0||0&quot;,&quot;&quot;); javascript:processSelectionHiddenFare(&quot;1&quot;, &quot;&quot;, &quot;12:51 PM|4:55 PM|6:40 PM|8:15 PM&quot;, &quot;3:08 PM|5:58 PM|7:31 PM|9:27 PM&quot;, &quot;market1_trip_2&quot;, &quot;Wednesday</br>  October  15,  2014&quot;, &quot; 667| 719| 719| 719&quot;, &quot;&quot;, &quot;True&quot;, &quot;Baltimore, MD / Washington, DC AREA|Dallas/Ft. Worth, TX |Denver, CO|Las Vegas, NV&quot;, &quot;BWI|DFW|DEN|LAS&quot;, &quot;Dallas/Ft. Worth, TX |Denver, CO|Las Vegas, NV|Los Angeles, CA&quot;, &quot;DFW|DEN|LAS|LAX&quot;,&quot;0||0&quot;,&quot;&quot;);" value="0~R~~R7Z8NR~0001~~1~X|NK~ 667~ ~~BWI~10/15/2014 12:51~DFW~10/15/2014 15:08~^NK~ 719~ ~~DFW~10/15/2014 16:55~LAX~10/15/2014 21:27~DENLAS"><em class="emPrice">$198.59</em></label></div>
+                      </td>
+                      <td class="fare" style="display:none;"><span class="valueToSortBy">198.59</span></td>
+                    </tr>
+                  </tbody>
+                  <tfoot>
+                    <tr class="note rowsMarket1">
+                      <td colspan="10" class="total_airfair"></td>
+                    </tr>
+                  </tfoot>
+                </table>
+              </fieldset><script language="javascript" type="text/javascript" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+      $(document).ready(function(){
+      //updareFaresWithCAF();
+      $(":checked").each(function(){
+      var selectedJourney1 = '';
+      var selectedJourney2 = '';
+      var isChecked = $(this).val();
+      if(isChecked == selectedJourney1 || isChecked == selectedJourney2){
+      $(this).trigger("click");
+      }
+      });
+
+      });
+    </script></div>
+            <div class="tax_rate_block_FA" data-market="marketSelect1">
+              <p style="margin-top:5px"><span><img src="images/dynamicPackaging/info_icon_27_27.jpg" alt="$9 Fare Club"></span>
+            Your <a class="tax_rate_link" href="#" shape="rect">effective government tax rate</a> for this
+            selection is <span class="tax_rate_percent"></span>%.</p>
+              <div class="popUpWrapper" style="display: none;">
+                <div class="popUpContent">
+                  <p>
+                    Your effective government tax rate is calculated as Government's Cut (government
+                    taxes and fees) divided by Our Price (what we charge).</p>
+                </div>
+                <div class="popUpWrapperTail"></div>
+                <div class="closeBtn" onclick="$(this).parent().hide();"></div>
+              </div>
+            </div><script language="javascript" type="text/javascript">
+				var marketIndex = '1';
+				var month = '10';
+				var day = '15';
+				if (marketCount > '1' && marketIndex > '1')
+				{
+				//hideShowContent(marketIndex, month, day, marketCount)
+				}
+				else
+				{
+				if (marketCount == '1' && marketIndex == '1')
+				{
+				//hideShowContent(marketIndex, month, day, marketCount)
+				}
+				}
+			</script></div>
+          <fieldset>
+            <div id="dpp_page_itinerary"><section class="dpp_itinerary_details"><h1 class="itinerary">Your Itinerary</h1>
+                <table class="itinerary-info calenderItineraryInfo" cellspacing="0" cellpadding="0" summary="Your Itinerary" width="100%">
+                  <tbody>
+                    <tr>
+                      <td colspan="3">
+                        <table style="width:908px; background:#eee; margin:0 auto;">
+                          <tr>
+                            <td>
+                              <table cellspacing="0" cellpadding="0" class="flight_availabilty_itinerary" width="100%">
+                                <tbody>
+                                  <tr id="selection1">
+                                    <td colspan="4">
+                                      <p>Please select your <a href="#market1">Flight</a> above.</p>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td colspan="3">
+                        <div id="marketSelection" style="display:none;"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarket1" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarket1" class="TextBoxMarket1" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarket2" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarket2" class="TextBoxMarket2" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarket3" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarket3" class="TextBoxMarket3" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarket4" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarket4" class="TextBoxMarket4" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarketHiddenFare1" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarketHiddenFare1" class="TextBoxMarketHiddenFare1" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarketHiddenFare2" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarketHiddenFare2" class="TextBoxMarketHiddenFare2" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarketHiddenFare3" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarketHiddenFare3" class="TextBoxMarketHiddenFare3" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxMarketHiddenFare4" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxMarketHiddenFare4" class="TextBoxMarketHiddenFare4" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxHiddenSavings1" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxHiddenSavings1" class="TextBoxHiddenSavings1" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxHiddenSavings2" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxHiddenSavings2" class="TextBoxHiddenSavings2" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxHiddenSavings3" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxHiddenSavings3" class="TextBoxHiddenSavings3" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><input name="DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$TextBoxHiddenSavings4" type="text" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_TextBoxHiddenSavings4" class="TextBoxHiddenSavings4" xmlns:msxsl="urn:schemas-microsoft-com:xslt"></div>
+                        <div style="display:none" id="currentCulture">en-US</div>
+                        <div class="double-check">Double Check Your Itinerary! Then let’s book it.</div>
+                        <p class="center"><a href="javascript: void(0)" id="validateAndTriggerFloatBox" class="modal button primary" name="acceptDeclineLogin" onclick="return onBookButtonClicked();">Continue</a></p>
+                      </td>
+                    </tr>
+                  </tbody>
+                  <tbody>
+                    <tr>
+                      <td class="staticNotes">
+   Lower fares generally available at the airport.
+</td>
+                    </tr>
+                  </tbody>
+                </table></section></div>
+            <div class="modalContent" id="modalContent">
+              <div class="title">
+                <h3> $9 Fare Club </h3>
+              </div>
+              <div class="offer">
+                <div id="savingsWorth" style="display:none;">
+                  <h4><strong> Your membership will pay for itself with the amount you save today.<br></strong></h4>
+                </div>
+                <div id="genericMessage">
+                  <h4> You can save <strong class="savingsAmountBold" id="savingsAmount1">$xx.xx</strong> by joining our $9 Fare Club today for only $59.95<span id="membershipAmountDisplay" style="display:none;"></span> per year. <span style="font-size:13px; font-weight:normal; display:block;"> (Membership Terms and conditions apply)</span></h4>
+                </div>
+                <div class="savingsButtonGroup">
+                  <div class="savingsButtonGroup" style="align:center;">
+                    <div><a class="button secondary" href="javascript:__doPostBack('DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$LinkButtonDecline9DFCSavings','')" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_LinkButtonDecline9DFCSavings"> No, I DON'T WANT TO SIGN UP AND SAVE.</a><span> Your selection will be priced at the standard rates. </span></div>
+                    <div><a class="button primary" style="align:center;" href="javascript:__doPostBack('DPPCalendarMarketSelectControl$DPPMarketSelectAjaxCalendarControl$LinkButtonAccept9DFCSavings','')" id="DPPCalendarMarketSelectControl_DPPMarketSelectAjaxCalendarControl_LinkButtonAccept9DFCSavings"> SIGN UP NOW AND SAVE ON FLIGHTS AND BAGS!</a><span> Yes, I want to save by joining the $9 Fare Club for $59.95 (*Membership Terms and conditions apply and charges are non-refundable) </span></div>
+                  </div>
+                </div>
+              </div>
+              <div id="loginSectionVerbiage" style="text-align:center"><span id="alreadMember" class="alreadymember"> Already a $9 Fare Club member? <a href="StaticFareClubEnrollment.aspx" id="expandLogin">Sign in here.</a></span></div>
+              <div id="ajaxLoaderGif" style="display:none; text-align:center;"><img src="images/ajax-loader.gif" alt="Loading"><br>Loading</div>
+              <div id="loginSection" class="section_block" style="display:none;">
+                <div id="AjaxLoginError" style="font-weight:bold; font-size:16px; color:red; display:none;">We're sorry but we could not find that username. Please try again.</div>
+                <table cellpadding="0" cellspacing="0" border="0" id="loginTable">
+                  <colgroup width="50%"></colgroup>
+                  <colgroup width="50%" span="2"></colgroup>
+                  <tr>
+                    <td><label for="DPPCalendarMarketSelectControl_DPPCalendarMarketLoginControl_TextBoxUserID">E-mail Address:</label></td>
+                    <td colspan="2"><label for="DPPCalendarMarketSelectControl_DPPCalendarMarketLoginControl_PasswordFieldPassword">Password:</label></td>
+                  </tr>
+                  <tr>
+                    <td id="username"><input name="DPPCalendarMarketSelectControl$DPPCalendarMarketLoginControl$TextBoxUserID" type="text" maxlength="64" id="DPPCalendarMarketSelectControl_DPPCalendarMarketLoginControl_TextBoxUserID" class="text"></td>
+                    <td id="password"><input name="DPPCalendarMarketSelectControl$DPPCalendarMarketLoginControl$PasswordFieldPassword" type="password" id="DPPCalendarMarketSelectControl_DPPCalendarMarketLoginControl_PasswordFieldPassword" class="text" maxlength="16" maxlengtherror="Password is too long" autocomplete="off"><br><a href="ForgotPassword.aspx">Don't know your password?</a></td>
+                    <td>
+                      <div id="submit"><a id="logMeInFloatBox" onclick="javascript:AjaxLoginModal();" class="button primary">Login</a></div>
+                    </td>
+                  </tr>
+                </table>
+              </div>
+              <div id="loginResult" style="display:none;"></div>
+            </div>
+          </fieldset>
+          <div class="clearAll"></div>
+          <div id="errorIndicator" style="display:none;">false</div>
+          <div style="display: none;" id="freeSpiritMCapplyModal">
+            <h1 style="margin: 0px;">
+            Spirit MasterCard
+        </h1>
+            <p class="fsmc_p">
+            You have selected a Spirit MasterCard fare. In order to take advantage of this
+            fare in the future as well as receive many other member advantages you will need
+            to go thru a short application process. Remember, you won't be able to use this fare on this booking. </p><br clear="none"><p class="actions"><button id="btnApply" type="button" class="button primary" onclick="window.open('http://fiacardservicesgroup.tt.omtrdc.net/m2/fiacardservicesgroup/ubox/page?mbox=adboxRedirector2&amp;mboxDefault=http%3A//www.applyonlinenow.com/uscc/error.html?error_code=1001&amp;tagname=Spirit-HelpPageLoc2');">
+                Apply Now
+            </button><br clear="none"><a href="#" id="closeFSMCapply" shape="rect">Cancel </a></p>
+          </div><script language="javascript" type="text/javascript">
+      $("#btnApply").click(function() {
+      $("#freeSpiritMCapplyModal").dialog('close');
+      $("#closeFSMCapply").click();
+      });
+      $("#changeFaresToUSD").live('click',function(){
+      $("#freeSpiritMilesCount").dialog('close');
+      $("#freeSpiritMilesCountOld").dialog('close');
+      });
+    </script><div style="display:none;" id="freeSpiritMilesCount">
+            <div id="Div_miles_popup_body">
+              <h1 style="margin: 0px;">
+            Insufficient Miles</h1>
+              <div>
+            The trip you selected costs <strong><span id="currentFlightsMileCost"></span> miles</strong>,
+            but you only have <strong><span id="milesAvailableForFlight"></span> miles</strong>
+            available.<br clear="none"></div>
+            </div>
+            <div id="div_bookingpath_BuyMoreMiles">
+              <div>
+           Buy more miles now, choose a different flight, or view flight prices in USD.</div><br clear="none"></div>
+            <div id="showRefreshPopup" style="display:none;">
+              <h1 style="margin: 0px;">
+            Refresh Miles</h1>
+              <div>
+            Update your mileage balance and return to your booking by selecting Refresh Miles. Or you may choose a
+             different flight or view flight prices in USD.<br clear="none"></div><br></div>
+            <div class="actions" style="text-align:center; ">
+              <div id="BuyMoreMiles"><a href="https://buy.points.com/PointsPartnerFrames/partners/spirit/container.html?product=buy" target="_blank" class="button primary" shape="rect">Buy More Miles*</a></div><button type="button" class="button primary" id="RefreshMilesButton" style="display:none; margin:0 auto 17px;">
+    Refresh Miles
+    </button><div class="selectChangeFlight"><button type="button" class="button secondary" id="selectChangeFlight">
+        Change Flights
+    </button></div><button type="button" class="button secondary" id="selectPayWithUSD" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><div id="bookingpath_ViewInUSD">
+       View in USD
+    </div></button><div class="insufficient_Miles_content">
+        * Upon selecting Buy More Miles, you will leave the Spirit.com site and be directed to Points.com to purchase your miles. 
+        You will need to return to your award booking on Spirit.com and click on “Refresh Miles” to update your mileage balance. 
+        A minimum 1,000 miles purchase is required.
+    </div>
+            </div>
+          </div>
+          <div style="display:none;" id="freeSpiritMilesCountOld">
+            <h1 style="margin: 0px;">
+            Insufficient Miles</h1>
+            <div>
+            The trip you selected costs <strong><span id="currentFlightsMileCost"></span> miles</strong>,
+            but you only have <strong><span id="milesAvailableForFlight"></span> miles</strong>
+            available.<br clear="none"></div>
+            <div>
+            Please select a cheaper flight or choose to pay in USD.</div><br clear="none"><p class="actions"><button type="button" class="button primary" id="selectCheaperFlight">
+        Change Flights
+    </button><br><button type="button" class="button secondary" id="selectPayWithUSD" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><div id="bookingpath_ViewInUSD">
+       View in USD
+    </div></button></p>
+          </div>
+          <div style="display:none">
+            <div id="infantChildBirthDateError">
+              <h1>Status Change</h1>
+              <h2>We've noticed that one of your party will no longer be able to fly as a lap child based on the new departure date.</h2>
+              <p>You will need to edit your search with the correct travel dates for us to present all of you with the correct prices.</p>
+              <p class="actions"><button type="button" class="button primary">Edit Search</button></p>
+            </div>
+            <div id="childInfantBirthDateError">
+              <h1>Status Change</h1>
+              <h2>We've noticed that one of your party will change status from child to lap child based on the new date(s) selected.</h2>
+              <p>You will need to edit your search with the correct travel dates for us to present all of you with the correct prices.</p>
+              <p class="actions"><button type="button" class="button primary">Edit Search</button></p>
+            </div>
+            <div id="childAdultBirthDateError">
+              <h1>Status Change</h1>
+              <h2>We've noticed that one of your party will change status from child to adult before your selected departure date.</h2>
+              <p>You will need to edit your search with the correct travel dates for us to present all of you with the correct prices.</p>
+              <p class="actions"><button type="button" class="button primary">Edit Search</button></p>
+            </div>
+            <div id="childBirthDateWithInSevenDaysError">
+              <h1>
+			Infant
+		</h1>
+              <h2>
+			Infants must be at least 7 days old at the time of departure (see <a href="https://spirit.zendesk.com/entries/21381706-am-i-allowed-to-carry-my-infant-on-my-lap-during-flight" target="_blank">infant acceptance</a> policies).  Please select a different departure date.
+		</h2>
+              <p class="actions"><button id="closeButton_childWithInSevenDays" class="button primary" type="button">Close</button></p>
+            </div>
+            <div id="adultChildBirthDateError">
+              <h1>Status Change</h1>
+              <h2>We've noticed that one of your party will change status from adult to child before your selected departure date.</h2>
+              <p>You will need to edit your search with the correct travel dates for us to present all of you with the correct prices.</p>
+              <p class="actions"><button type="button" class="button primary">Edit Search</button></p>
+            </div>
+          </div>
+          <div id="hiddenTaxesAndFees" style="display:none;">
+            <h1>
+        Taxes And Fees 
+    </h1>
+            <h2>
+        Air Travel within the United States 
+    </h2>
+            <p>
+        Quoted fare includes the base fare plus any applicable taxes, fees and surcharges.  
+    </p>
+            <p>The following government taxes and fees apply to your domestic air travel: </p>
+            <ul class="list">
+              <li>A 7.5% Federal Excise Tax (except for award bookings)</li>
+              <li>September 11th Security Fee: A September 11th Security Fee of $5.60 applies per
+          enplanement originating at a U.S. airport up to $10 per round trip. </li>
+              <li>Domestic Segment Tax: A segment tax of $4.00 per U.S. domestic flight segment (a
+            flight segment is defined as one takeoff and landing) (except for award bookings) </li>
+              <li>Passenger Facility Charges: Up to $18 per round trip per customer in local
+            airport charges (except for award bookings)</li>
+            </ul>
+            <p>      
+   The following carrier fees apply to your domestic air travel (except for award bookings):
+</p>
+            <ul class="list">
+              <li>Passenger Usage Fee: Passenger Usage Fee of $16.99 per one way travel per traveling customer applies to most reservations. A lower fee of $8.99 may apply to certain discount fares. No fee applies to bookings completed at Spirit Airlines' airport locations </li>
+              <li>Unintended Consequences of DOT Regulations Fee: Unintended Consequences of DOT Regulations Fee of $2.00 per one way travel per traveling customer applies to most reservations. No fee will apply to certain discount fares  </li>
+            </ul>
+            <h2>
+        International Air Travel (including Puerto Rico and the U.S. Virgin Islands) 
+</h2>
+            <p>Quoted fare includes the base fare plus any applicable taxes, fees, and surcharges. </p>
+            <p>The following government taxes and fees apply to your international air travel: </p>
+            <ul class="list">
+              <li>International arrival/departure tax of $17.50 for each arrival and departure to and from the U.S. (except for award bookings) </li>
+              <li>September 11th Security Fee: A September 11th Security Fee of $5.60 applies per
+            enplanement originating at a U.S. airport up to $10 per roundtrip </li>
+              <li>APHIS User Fee of up to $5.00 per traveling customer upon arrival to the U.S. </li>
+              <li>Immigration User Fee of up to $7.00 per traveling customer upon arrival to the U.S.  </li>
+              <li>Customs User Fee of up to $5.50 per traveling customer upon arrival to the U.S. </li>
+              <li>Passenger Facility Charges: Up to $9.00 each way per traveling customer for departures from certain U.S. airports (except for award bookings) </li>
+              <li>Non-U.S. government taxes and fees</li>
+            </ul>
+            <p>      
+   The following carrier fees apply to your international air travel (except for award bookings):
+     </p>
+            <ul class="list">
+              <li>Passenger Usage Fee: Passenger Usage Fee of $16.99 per one way travel per traveling customer applies to most international reservations excluding bookings completed at Spirit Airlines' airport locations as well as certain bookings to Colombia originating outside Colombia. A lower fee of $8.99 may apply to certain discount fares </li>
+              <li>Unintended Consequences of DOT Regulations Fee: Unintended Consequences of DOT Regulations Fee of $2.00 per one way travel per traveling customer applies to most international reservations. No fee will apply to certain discount fares  </li>
+            </ul>
+            <h2>
+        All Air Travel
+    </h2>
+            <ul class="list">
+              <li>Most fares include <a id="fuelLink" href="http://marketing.spirit.com/howmuchismyfuel.html" target="_blank" shape="rect">Fuel Pass Through</a></li>
+              <li>All fares are subject to change until purchased </li>
+              <li><u>Subject to certain exceptions and/or  restrictions set forth in Spirit Airlines’ Contract of Carriage,</u> all  reservations are non-refundable and non-transferable. Refunds are allowed for  reservations made 7 days or more prior to departure and provided that a refund  request is made within 24 hours of initial reservation. Changes or  cancellations made to itineraries will be subject to change fees, any fare  differential, any differences in government taxes and fees and, with the  exception of fees for carry-on bags and first and second checked-in bags, any  difference in carrier’s ancillary charges. </li>
+              <li>For a complete list of rules and regulations please refer to Spirit Airlines' <a href="content\documents\en-us\Contract_of_Carriage.pdf" target="_blank" shape="rect">Contract of Carriage</a></li>
+            </ul>
+            <h2>
+       Packages/Car Rentals
+</h2>
+            <p>
+        Rates include flight and hotel taxes and fees. Additional mandatory resort fees may be charged directly by the hotel. Car rental rates do not include taxes, airport fees, insurance, options, underage driver charges (if applicable) or fuel costs, all of which must be paid directly to the rental car company and are subject to change by each individual State and/or location. 
+    </p>
+            <h2>
+        Other Fees
+    </h2>
+            <p>
+        Additional charges for <a id="baggageFees" href="https://spirit.zendesk.com/entries/21381838-how-much-does-spirit-charge-for-bags&#xD;&#xA;" target="_blank" shape="rect">
+            baggage </a>, <a id="seatFees" href="https://spirit.zendesk.com/entries/21362132-is-there-a-fee-to-choose-a-particular-seat-in-advance&#xD;&#xA;" target="_blank" shape="rect">advance seat assignments</a> and 
+    <a id="changeFees" href="https://spirit.zendesk.com/entries/21376577-how-can-i-cancel-my-reservation&#xD;&#xA;" target="_blank" shape="rect"> any changes,</a> apply only if you add these options.</p><br clear="none"><h2>Advice to Passengers</h2>
+            <ul class="list">
+              <li>Federal law forbids the carriage of hazardous materials aboard aircraft in your luggage or on your person.</li>
+              <li>A violation can result in five years' imprisonment and penalties of $250,000 or more (49 U.S.C. 5124).</li>
+              <li>Hazardous materials include explosives, compressed gases, flammable liquids and solids, oxidizers, poisons, corrosives and radioactive materials. Examples: Paints, lighter fluid, fireworks, tear gases, oxygen bottles, and radio-pharmaceuticals.</li>
+              <li>There are special exceptions for small quantities (up to 70 ounces total) of medicinal and toilet articles carried in your luggage and certain smoking materials carried on your person. For further information contact your airline representative.</li>
+            </ul>
+            <div style="font-size : 6pt; font-family : Arial; color: #dddddd"> (* 31DEC2013 / TermsAndConditions_Floatbox *)  </div>
+          </div>
+          <div id="hiddenNonRefundableFees" style="display:none;">
+            <h1>Refundability</h1>
+            <p>Refunds are allowed for reservations made one week or more prior to your departure, provided that you make the refund request within 24 hours of your initial reservation.</p>
+            <p>Please call 801.401.2222 to request such a refund.</p>
+          </div>
+          <div id="hiddenStatementDebit" style="display:none;">
+            <div>
+              <h1>Get up to 1,000 FREE SPIRIT Bonus Miles</h1>
+              <p>Pay with a Spirit MasterCard or a U.S. issued debit card and get bonus miles!  </p>
+              <p>500 Miles - For a one-way flight.</p>
+              <p>1,000 Miles - For a round-trip flight or flight packages.</p>
+              <p>Your bonus miles will be credited to your account within 5 days post-travel and are in addition to any other offers you are eligible for.  Miles will be credited to the FREE SPIRIT number of the logged-in customer.  Travelers paying by debit card do not have all of the consumer protections legally available to those paying by credit card in the event of a dispute.</p>
+            </div>
+            <p> </p>
+            <p class="actions center"><a class="button primary" id="closeButton_statementDebitBanner" shape="rect">
+Close
+</a></p>
+          </div>
+        </div>
+        <div class="modal_content" style="display:none;">
+          <div id="taxesAndFees">
+            <h1>
+        Taxes And Fees 
+    </h1>
+            <h2>
+        Air Travel within the United States 
+    </h2>
+            <p>
+        Quoted fare includes the base fare plus any applicable taxes, fees and surcharges.  
+    </p>
+            <p>The following government taxes and fees apply to your domestic air travel: </p>
+            <ul class="list">
+              <li>A 7.5% Federal Excise Tax (except for award bookings)</li>
+              <li>September 11th Security Fee: A September 11th Security Fee of $5.60 applies per
+          enplanement originating at a U.S. airport up to $10 per round trip. </li>
+              <li>Domestic Segment Tax: A segment tax of $4.00 per U.S. domestic flight segment (a
+            flight segment is defined as one takeoff and landing) (except for award bookings) </li>
+              <li>Passenger Facility Charges: Up to $18 per round trip per customer in local
+            airport charges (except for award bookings)</li>
+            </ul>
+            <p>      
+   The following carrier fees apply to your domestic air travel (except for award bookings):
+</p>
+            <ul class="list">
+              <li>Passenger Usage Fee: Passenger Usage Fee of $16.99 per one way travel per traveling customer applies to most reservations. A lower fee of $8.99 may apply to certain discount fares. No fee applies to bookings completed at Spirit Airlines' airport locations </li>
+              <li>Unintended Consequences of DOT Regulations Fee: Unintended Consequences of DOT Regulations Fee of $2.00 per one way travel per traveling customer applies to most reservations. No fee will apply to certain discount fares  </li>
+            </ul>
+            <h2>
+        International Air Travel (including Puerto Rico and the U.S. Virgin Islands) 
+</h2>
+            <p>Quoted fare includes the base fare plus any applicable taxes, fees, and surcharges. </p>
+            <p>The following government taxes and fees apply to your international air travel: </p>
+            <ul class="list">
+              <li>International arrival/departure tax of $17.50 for each arrival and departure to and from the U.S. (except for award bookings) </li>
+              <li>September 11th Security Fee: A September 11th Security Fee of $5.60 applies per
+            enplanement originating at a U.S. airport up to $10 per roundtrip </li>
+              <li>APHIS User Fee of up to $5.00 per traveling customer upon arrival to the U.S. </li>
+              <li>Immigration User Fee of up to $7.00 per traveling customer upon arrival to the U.S.  </li>
+              <li>Customs User Fee of up to $5.50 per traveling customer upon arrival to the U.S. </li>
+              <li>Passenger Facility Charges: Up to $9.00 each way per traveling customer for departures from certain U.S. airports (except for award bookings) </li>
+              <li>Non-U.S. government taxes and fees</li>
+            </ul>
+            <p>      
+   The following carrier fees apply to your international air travel (except for award bookings):
+     </p>
+            <ul class="list">
+              <li>Passenger Usage Fee: Passenger Usage Fee of $16.99 per one way travel per traveling customer applies to most international reservations excluding bookings completed at Spirit Airlines' airport locations as well as certain bookings to Colombia originating outside Colombia. A lower fee of $8.99 may apply to certain discount fares </li>
+              <li>Unintended Consequences of DOT Regulations Fee: Unintended Consequences of DOT Regulations Fee of $2.00 per one way travel per traveling customer applies to most international reservations. No fee will apply to certain discount fares  </li>
+            </ul>
+            <h2>
+        All Air Travel
+    </h2>
+            <ul class="list">
+              <li>Most fares include <a id="fuelLink" href="http://marketing.spirit.com/howmuchismyfuel.html" target="_blank" shape="rect">Fuel Pass Through</a></li>
+              <li>All fares are subject to change until purchased </li>
+              <li><u>Subject to certain exceptions and/or  restrictions set forth in Spirit Airlines’ Contract of Carriage,</u> all  reservations are non-refundable and non-transferable. Refunds are allowed for  reservations made 7 days or more prior to departure and provided that a refund  request is made within 24 hours of initial reservation. Changes or  cancellations made to itineraries will be subject to change fees, any fare  differential, any differences in government taxes and fees and, with the  exception of fees for carry-on bags and first and second checked-in bags, any  difference in carrier’s ancillary charges. </li>
+              <li>For a complete list of rules and regulations please refer to Spirit Airlines' <a href="content\documents\en-us\Contract_of_Carriage.pdf" target="_blank" shape="rect">Contract of Carriage</a></li>
+            </ul>
+            <h2>
+       Packages/Car Rentals
+</h2>
+            <p>
+        Rates include flight and hotel taxes and fees. Additional mandatory resort fees may be charged directly by the hotel. Car rental rates do not include taxes, airport fees, insurance, options, underage driver charges (if applicable) or fuel costs, all of which must be paid directly to the rental car company and are subject to change by each individual State and/or location. 
+    </p>
+            <h2>
+        Other Fees
+    </h2>
+            <p>
+        Additional charges for <a id="baggageFees" href="https://spirit.zendesk.com/entries/21381838-how-much-does-spirit-charge-for-bags&#xD;&#xA;" target="_blank" shape="rect">
+            baggage </a>, <a id="seatFees" href="https://spirit.zendesk.com/entries/21362132-is-there-a-fee-to-choose-a-particular-seat-in-advance&#xD;&#xA;" target="_blank" shape="rect">advance seat assignments</a> and 
+    <a id="changeFees" href="https://spirit.zendesk.com/entries/21376577-how-can-i-cancel-my-reservation&#xD;&#xA;" target="_blank" shape="rect"> any changes,</a> apply only if you add these options.</p><br clear="none"><h2>Advice to Passengers</h2>
+            <ul class="list">
+              <li>Federal law forbids the carriage of hazardous materials aboard aircraft in your luggage or on your person.</li>
+              <li>A violation can result in five years' imprisonment and penalties of $250,000 or more (49 U.S.C. 5124).</li>
+              <li>Hazardous materials include explosives, compressed gases, flammable liquids and solids, oxidizers, poisons, corrosives and radioactive materials. Examples: Paints, lighter fluid, fireworks, tear gases, oxygen bottles, and radio-pharmaceuticals.</li>
+              <li>There are special exceptions for small quantities (up to 70 ounces total) of medicinal and toilet articles carried in your luggage and certain smoking materials carried on your person. For further information contact your airline representative.</li>
+            </ul>
+            <div style="font-size : 6pt; font-family : Arial; color: #dddddd"> (* 31DEC2013 / TermsAndConditions_Floatbox *)  </div>
+            <p class="actions"><a href="#" rel="close_taxesAndFees" class="button primary">Close window</a></p>
+          </div>
+          <div id="NonRefundable">
+            <h1>Refundability</h1>
+            <p>Refunds are allowed for reservations made one week or more prior to your departure, provided that you make the refund request within 24 hours of your initial reservation.</p>
+            <p>Please call 801.401.2222 to request such a refund.</p>
+            <p class="actions"><a href="#" rel="close_NonRefundable" class="button primary">Close</a></p>
+          </div>
+          <div id="StatementDebit"></div>
+        </div><script language="javascript">
+      $(document).ready(function() {
+        
+        if (isAgent=='true') {
+        $('#statementDebitAvailBlock').hide();
+        }
+
+        $("#hiddenStatementDebit" ).dialog({
+        modal: true,
+        dialogClass: 'no_close',
+        width: 500,
+        autoOpen:false
+        });
+
+        $('#statementDebitAvailTrigger').click(function () {
+        $('#hiddenStatementDebit').dialog('open');
+        });
+        
+        $('#closeButton_statementDebitBanner').click(function () {
+        $('#hiddenStatementDebit').dialog('close');
+        });
+        
+      });
+
+    </script></div>
+      <DIV style="display:none"><JAVASCRIPTDEPLOYVERSION>?v=1</JAVASCRIPTDEPLOYVERSION></DIV>
+      <DIV style="display:none"><TASessiontimeout>600000</TASessiontimeout></DIV>
+      <DIV style="display:none"><TAUserSessionWarning>540000</TAUserSessionWarning></DIV><script type="text/javascript">
+      var flag = false;
+      function RefreshSession_Callback(sender,arg)
+      {
+      if(arg == "refreshSession")
+      {
+      $('#divTimeOutPrompt').hide();
+      $("#divTimeOutPromptInactive").show();
+      }
+      else
+      {
+      flag = true;
+      //Erase Jumpseat cookie
+      CookieHelper.erase("jumpseat");
+      }
+      DPPCalendarMarketUserSessionSyncCallbackControl_CallServer(arg, null);
+      }
+
+      function DPPCalendarMarketUserSessionSyncCallbackControl_ServerCallback(arg, context)
+      {
+      //alert(arg);
+      if (arg == "True")
+      {
+      ResetWebSessionTimeout();
+      }
+      if(flag)
+      {
+      window.location.href = 'Default.aspx?culture=en-US';
+    }
+    }
+  </script><div class="modal_content" style="display:none">
+        <div id="sessionTimeOutMsg">
+          <div id="sessionTimeOutPrompt"><img id="imgSpiritLogo" src="images/spiritway/spiritblack.png" alt="Spirit Logo"><p>For your privacy and protection, your session is about to timeout due to inactivity. Please click the button to continue this session.</p>
+            <div id="divTimeOutPromptInactive" style="display:none;">
+              <p class="actions"><span class="buttonSession secondarySession">Your request is being processed...</span></p>
+            </div>
+            <div id="divTimeOutPrompt">
+              <p class="actions"><a href="#" id="ButtonRefreshSession" name="ButtonRefreshSession" class="button primary" onclick="RefreshSession_Callback(this,'refreshSession')">Continue</a></p>
+            </div>
+          </div>
+          <div id="sessionTimedOut" style="display:none"><img id="imgSpiritLogo" src="images/spiritway/spiritblack.png" alt="Spirit Logo"><p>Your session has ended due to inactivity.  Please click the button to start a new session.</p>
+            <p class="actions"><a id="ButtonRefreshSession" class="button primary" onclick="RefreshSession_Callback(this,'clearSession')" href="Default.aspx">New Session</a></p>
+          </div>
+        </div>
+      </div><footer class="main_footer"><div class="inner_footer">
+          <div class="plane_with_tower">
+            <div class="plane"></div>
+            <div class="tower"></div>
+          </div><section class="linksets"><nav><h1>About Spirit</h1>
+              <ul>
+                <li><span class="icon"></span><a href="AboutUs.aspx" onclick="">About Us</a></li>
+                <li><span class="icon"></span><a href="http://ir.spirit.com" onclick="">Investor Relations</a></li>
+                <li><span class="icon"></span><a href="careers" onclick="">Careers</a></li>
+                <li><span class="icon"></span><a href="http://store.spiritair.com" onclick="">Store</a></li>
+              </ul></nav><nav><h1>Agents &amp; Team</h1>
+              <ul>
+                <li><span class="icon"></span><a href="travel_portal_home-initial.aspx" onclick="">Travel Agents</a></li>
+                <li><span class="icon"></span><a href="https://E14.ultipro.com/Default.aspx?Alias=SPIRI519" onclick="">Team Login</a></li>
+                <li><span class="icon"></span><a href="EmployeeTravel.aspx" onclick="" style="line-height: 1.4; margin-top: 6px; display: inline-block;">
+	  Team Travel &amp; <br>OA Travel / Jumpseat  </a></li>
+              </ul></nav><nav><h1>News &amp; Press</h1>
+              <ul>
+                <li><span class="icon"></span><a href="Pressrelease.aspx" onclick="">Press Room</a></li>
+                <li><span class="icon"></span><a href="SpecialEvents.aspx" onclick="">Events</a></li>
+                <li><span class="icon"></span><a href="Advertise.aspx" onclick="">Advertise With Us</a></li>
+              </ul></nav><nav class="last"><h1>Customer Service</h1>
+              <ul>
+                <li><span class="icon"></span><a href="https://spirit.zendesk.com" onclick="">Help</a></li>
+                <li><span class="icon"></span><a href="GroupTravel.aspx" onclick="">Group Travel</a></li>
+                <li><span class="icon"></span><a href="Legal.aspx" onclick="">Legal</a></li>
+              </ul></nav></section><section class="copyright"><p><span>
+          Copyright © <script>document.write((new Date()).getFullYear());</script> Spirit Airlines, Inc. All Rights Reserved.
+        </span></p></section></div></footer><div class="color_bar"></div>
+    </div><script type="text/javascript">
+//
+var theForm = document.forms['SkySales'];
+if (!theForm) {
+    theForm = document.SkySales;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//
+</script><script src="/WebResource.axd?d=yPpM_Esz4QX1PMPCOxg3b1uvDr0F1qP0XKBCyYJk3x-7hlWbK4M6y0qbAaW6W-ixGJt753NSX1pioRSenVvr5Muge3A1&amp;t=635195625120000000" type="text/javascript"></script><script type="text/javascript"> function LoginDialogSubmit(dataString) {  $.ajax({   type: 'POST',   url: 'https://www.spirit.com/AjaxLogin.aspx',   dataType: 'jsonp',  jsonp: 'callback',  jsonpCallback: 'ProcessLoginData',  data: dataString,   success: function (data) {   }  }); CookieHelper.erase('jumpseat');} </script><script type="text/javascript">
+//
+function WebForm_OnSubmit() {
+blockPage();
+return true;
+}
+//
+</script><script type="text/javascript">
+//
+
+var callBackFrameUrl='/WebResource.axd?d=3LbP-Pp5NRnzakOukMPHL5acyt7rZ7nuD_xwbl1FlmJ5BOREr1vS_ti9tcp_XhHALooNmm_gQuzohl1VD0cEqKKc0T41&t=635195625120000000';
+WebForm_InitCallback();function DPPCalendarMarketUserSessionSyncCallbackControl_CallServer(arg, context) { WebForm_DoCallback('DPPCalendarMarketUserSessionSyncCallbackControl',arg,DPPCalendarMarketUserSessionSyncCallbackControl_ServerCallback,context,null,false);}//
+</script><script language="javascript" type="text/javascript">
+	var BagRulesTable = new Array();
+	BagRulesTable["BOG"] = new Array(new BagRule("BOG", "2", "1/25/2010", "12/31/2028"));
+	BagRulesTable["CTG"] = new Array(new BagRule("CTG", "2", "1/25/2010", "12/31/2028"));
+	BagRulesTable["MDE"] = new Array(new BagRule("MDE", "2", "1/25/2010", "12/31/2028"));
+	BagRulesTable["AXM"] = new Array(new BagRule("AXM", "2", "1/25/2010", "12/31/2028"));
+	BagRulesTable["BAQ"] = new Array(new BagRule("BAQ", "2", "1/25/2010", "12/31/2028"));
+	BagRulesTable["LIM"] = new Array(new BagRule("LIM", "1", "4/29/2008", "12/31/2028"));
+	BagRulesTable["PAP"] = new Array(new BagRule("PAP", "1", "4/29/2008", "12/31/2028"));
+	BagRulesTable["POS"] = new Array(new BagRule("POS", "1", "4/29/2008", "12/31/2028"));
+	BagRulesTable["AUA"] = new Array(new BagRule("AUA", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["FPO"] = new Array(new BagRule("FPO", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["KIN"] = new Array(new BagRule("KIN", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["MBJ"] = new Array(new BagRule("MBJ", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["NAS"] = new Array(new BagRule("NAS", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["PAP"].push(new BagRule("PAP", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["STI"] = new Array(new BagRule("STI", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["SDQ"] = new Array(new BagRule("SDQ", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["SXM"] = new Array(new BagRule("SXM", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["STT"] = new Array(new BagRule("STT", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["GUA"] = new Array(new BagRule("GUA", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["MGA"] = new Array(new BagRule("MGA", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["PTY"] = new Array(new BagRule("PTY", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["SJO"] = new Array(new BagRule("SJO", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["SAP"] = new Array(new BagRule("SAP", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["CUN"] = new Array(new BagRule("CUN", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["AXM"].push(new BagRule("AXM", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["BOG"].push(new BagRule("BOG", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["MDE"].push(new BagRule("MDE", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["CTG"].push(new BagRule("CTG", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["BAQ"].push(new BagRule("BAQ", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["LIM"].push(new BagRule("LIM", "1", "12/01/2014", "01/10/2015"));
+	BagRulesTable["AUA"].push(new BagRule("AUA", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["FPO"].push(new BagRule("FPO", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["KIN"].push(new BagRule("KIN", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["MBJ"].push(new BagRule("MBJ", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["NAS"].push(new BagRule("NAS", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["PAP"].push(new BagRule("PAP", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["STI"].push(new BagRule("STI", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["SDQ"].push(new BagRule("SDQ", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["SXM"].push(new BagRule("SXM", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["STT"].push(new BagRule("STT", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["GUA"].push(new BagRule("GUA", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["MGA"].push(new BagRule("MGA", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["PTY"].push(new BagRule("PTY", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["SJO"].push(new BagRule("SJO", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["SAP"].push(new BagRule("SAP", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["CUN"].push(new BagRule("CUN", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["AXM"].push(new BagRule("AXM", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["BOG"].push(new BagRule("BOG", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["MDE"].push(new BagRule("MDE", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["CTG"].push(new BagRule("CTG", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["BAQ"].push(new BagRule("BAQ", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["LIM"].push(new BagRule("LIM", "1", "12/01/2015", "01/10/2016"));
+	BagRulesTable["AUA"].push(new BagRule("AUA", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["FPO"].push(new BagRule("FPO", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["KIN"].push(new BagRule("KIN", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["MBJ"].push(new BagRule("MBJ", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["NAS"].push(new BagRule("NAS", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["PAP"].push(new BagRule("PAP", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["STI"].push(new BagRule("STI", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["SDQ"].push(new BagRule("SDQ", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["SXM"].push(new BagRule("SXM", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["STT"].push(new BagRule("STT", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["GUA"].push(new BagRule("GUA", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["MGA"].push(new BagRule("MGA", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["PTY"].push(new BagRule("PTY", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["SJO"].push(new BagRule("SJO", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["SAP"].push(new BagRule("SAP", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["CUN"].push(new BagRule("CUN", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["AXM"].push(new BagRule("AXM", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["BOG"].push(new BagRule("BOG", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["MDE"].push(new BagRule("MDE", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["CTG"].push(new BagRule("CTG", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["BAQ"].push(new BagRule("BAQ", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["LIM"].push(new BagRule("LIM", "1", "12/01/2016", "01/10/2017"));
+	BagRulesTable["AUA"].push(new BagRule("AUA", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["FPO"].push(new BagRule("FPO", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["KIN"].push(new BagRule("KIN", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["MBJ"].push(new BagRule("MBJ", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["NAS"].push(new BagRule("NAS", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["PAP"].push(new BagRule("PAP", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["STI"].push(new BagRule("STI", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["SDQ"].push(new BagRule("SDQ", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["SXM"].push(new BagRule("SXM", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["STT"].push(new BagRule("STT", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["GUA"].push(new BagRule("GUA", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["MGA"].push(new BagRule("MGA", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["PTY"].push(new BagRule("PTY", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["SJO"].push(new BagRule("SJO", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["SAP"].push(new BagRule("SAP", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["CUN"].push(new BagRule("CUN", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["AXM"].push(new BagRule("AXM", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["BOG"].push(new BagRule("BOG", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["MDE"].push(new BagRule("MDE", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["CTG"].push(new BagRule("CTG", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["BAQ"].push(new BagRule("BAQ", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["LIM"].push(new BagRule("LIM", "1", "12/01/2017", "01/10/2018"));
+	BagRulesTable["AUA"].push(new BagRule("AUA", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["FPO"].push(new BagRule("FPO", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["KIN"].push(new BagRule("KIN", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["MBJ"].push(new BagRule("MBJ", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["NAS"].push(new BagRule("NAS", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["PAP"].push(new BagRule("PAP", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["STI"].push(new BagRule("STI", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["SDQ"].push(new BagRule("SDQ", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["SXM"].push(new BagRule("SXM", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["STT"].push(new BagRule("STT", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["GUA"].push(new BagRule("GUA", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["MGA"].push(new BagRule("MGA", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["PTY"].push(new BagRule("PTY", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["SJO"].push(new BagRule("SJO", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["SAP"].push(new BagRule("SAP", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["CUN"].push(new BagRule("CUN", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["AXM"].push(new BagRule("AXM", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["BOG"].push(new BagRule("BOG", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["MDE"].push(new BagRule("MDE", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["CTG"].push(new BagRule("CTG", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["BAQ"].push(new BagRule("BAQ", "1", "12/01/2018", "01/10/2019"));
+	BagRulesTable["LIM"].push(new BagRule("LIM", "1", "12/01/2018", "01/10/2019"));
+	function BagRule(station, baglimit, startdate, enddate)
+	{
+		this.station = station;
+		this.baglimit = baglimit;
+		this.startdate = startdate;
+		this.enddate = enddate;
+	}
+</script><script async="true" defer type="text/javascript" src="https://tag.yieldoptimizer.com/ps/ps?t=s&amp;p=1283&amp;stype=F&amp;sfoac=BWI&amp;sfdac=LAX&amp;sddate=2014-10-15&amp;sadlt=1&amp;schld=0"></script><script async="true" defer type="text/javascript" src="https://pixel.sojern.com/partner/IsOPE5Ef73WlGvw2/fs?stype=F&amp;fa1=BWI&amp;fa2=LAX&amp;fd1=2014-10-15&amp;t=1"></script><script type="text/javascript">/*  */var google_conversion_id = 969449395;var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/*  */</script><script type="text/javascript">var google_tag_params = {VP_search : 'NO', CRS_search : 'NO', AIR_search : 'YES', HTL_search : 'NO', CAR_search : 'NO', TRVL_adults : '1', TRVL_kids : '0', TRVL_infants : '0'};</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><div id="waitMessage" style="display:none;"><img id="imgSpiritLogo" src="images/spiritway/spiritblack.png" alt="Spirit Logo"><p class="actions">Loading something awesome…</p>
+      <p class="actions"><img id="submitWait" src="images/spiritway/processing_bar.gif" alt="Loading something awesome…"></p>
+    </div>
+  </form><script>
+				PageModel.lessInfo= "Less Info";
+				PageModel.moreInfo= "More Info";
+				PageModel.headerEmailRequired= "Email is required";
+				PageModel.headerEmailFormat= "Email address is invalid";
+				PageModel.headerPasswordRequired= "Password is required";
+			</script><script type="text/javascript" src="script/jquery.cookie.pack.js?v=1"></script><script type="text/javascript" src="script/gaaccount.js?v=1"></script><script type="text/javascript">
+				_qoptions={qacct:"p-11iOU59_QlGs6"};
+				</script><script type="text/javascript" src="//secure.quantserve.com/quant.js"></script><script type="text/javascript" language="javascript">
+        gaPagename = "/DPPCalendarMarket.aspx";
+        var TAUserSessionWarning= 540000 ;
+
+        var TASessiontimeout=600000 ;
+ 
+        
+					//Disable Session Expiration popup on Help page 
+					if (gaPagename.indexOf("HelpRightNow") < 0)
+					{
+						
+            //set session timeout timer (10 min = 10*60*1000)
+						 window.userSessionTimeoutID = setTimeout('SessionExpired();',TASessiontimeout);
+						//set warning timer (9 min = 9*60*1000)
+						window.userSessionWarningID = setTimeout('WarnUser();',TAUserSessionWarning);	
+					}
+          
+				</script><script type="text/javascript" src="script/webtrends.js?v=1"></script><script type="text/javascript" language="javascript">
+        strURL = window.location.search;
+        sAccount = window.gaccount;
+
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        if (gaLocalHostEnabled) {
+        ga('create', sAccount, 'spirit.com', {'cookieDomain':'none'});
+        } else {
+        ga('create', sAccount);
+        }
+        ga('send', 'pageview');
+
+        
+					$(function() {
+						gaPagename = gaPagename + strURL;
+						var customSegmentation = $.cookie('__utmv');
+						if (window.gaFreeSpirit == true && (customSegmentation == null || customSegmentation.indexOf("freespirit") == -1))
+              ga('set', 'dimension1', 'freespirit');
+						else if (window.gaFreeSpirit != true && (customSegmentation == null || customSegmentation.indexOf("guest") == -1))
+              ga('set', 'dimension1', 'guest');
+            ga('send', 'pageview', gaPagename);
+					});
+				
+					var _tag=new WebTrends();
+					_tag.dcsGetId();
+				
+				wtURI = "/DPPCalendarMarket.aspx" + window.location.search;
+				
+					_tag.DCS.dcsuri = wtURI;
+					_tag.dcsCollect();
+				</script><script language="javascript" type="text/javascript">
+					//defined in common.js
+					$(document).ready(function(){
+						WindowInitialize();
+					});
+				</script></body><!--[if (IE)|!(IE)]></html><![endif]--
